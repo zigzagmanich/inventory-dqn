@@ -139,8 +139,3 @@ inventory-dqn/
 
 See `requirements.txt` for pinned versions.
 
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
