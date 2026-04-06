@@ -19,14 +19,6 @@ A desktop application for intelligent inventory management using a **Deep Q-Netw
 
 ---
 
-## 🖥️ Screenshots
-
-| Setup | Training | Dashboard |
-|-------|----------|-----------|
-| Configure parameters and load Excel data | Live reward curve during DQN training | Daily AI recommendations and KPI cards |
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Clone the repository
